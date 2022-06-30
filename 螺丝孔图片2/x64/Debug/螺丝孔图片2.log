@@ -1,0 +1,162 @@
+﻿  源.cpp
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(57,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(58,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(69,27): warning C4305: “初始化”: 从“double”到“float”截断
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(69,37): warning C4305: “初始化”: 从“double”到“float”截断
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(71,67): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(71,48): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(71,32): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(71,19): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(85,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(86,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(87,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(91,49): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(91,35): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(91,62): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(92,49): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(92,35): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(164,19): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(165,19): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(166,19): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(171,32): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(171,25): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(171,40): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(172,32): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(172,25): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(210,19): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(211,19): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(212,19): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(217,32): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(217,25): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(217,40): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(218,32): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\螺丝孔图片2\源.cpp(218,25): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  螺丝孔图片2.vcxproj -> F:\vsProject\螺丝孔图片2\x64\Debug\螺丝孔图片2.exe

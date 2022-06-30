@@ -1,0 +1,75 @@
+﻿  源.cpp
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(56,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(57,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(66,16): warning C4305: “初始化”: 从“double”到“float”截断
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(66,26): warning C4305: “初始化”: 从“double”到“float”截断
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(66,36): warning C4305: “初始化”: 从“double”到“float”截断
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(67,67): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(67,48): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(67,32): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(67,19): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(85,18): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(86,28): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(95,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(96,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(97,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(98,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(99,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(100,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(101,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(102,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(109,17): warning C4244: “初始化”: 从“float”转换到“long”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(110,17): warning C4244: “初始化”: 从“float”转换到“long”，可能丢失数据
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(191,48): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(191,34): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(191,83): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+F:\vsProject\螺丝孔图片2\直线图片\源.cpp(191,69): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  直线图片.vcxproj -> F:\vsProject\螺丝孔图片2\x64\Debug\直线图片.exe
